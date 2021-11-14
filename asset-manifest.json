@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/origami-counter/static/css/main.f99492d0.chunk.css",
-    "main.js": "/origami-counter/static/js/main.6968e46d.chunk.js",
-    "main.js.map": "/origami-counter/static/js/main.6968e46d.chunk.js.map",
+    "main.css": "/origami-counter/static/css/main.77bad089.chunk.css",
+    "main.js": "/origami-counter/static/js/main.ff1b6f3a.chunk.js",
+    "main.js.map": "/origami-counter/static/js/main.ff1b6f3a.chunk.js.map",
     "runtime-main.js": "/origami-counter/static/js/runtime-main.ddba2f54.js",
     "runtime-main.js.map": "/origami-counter/static/js/runtime-main.ddba2f54.js.map",
     "static/js/2.75f20dd7.chunk.js": "/origami-counter/static/js/2.75f20dd7.chunk.js",
     "static/js/2.75f20dd7.chunk.js.map": "/origami-counter/static/js/2.75f20dd7.chunk.js.map",
     "index.html": "/origami-counter/index.html",
-    "static/css/main.f99492d0.chunk.css.map": "/origami-counter/static/css/main.f99492d0.chunk.css.map",
+    "static/css/main.77bad089.chunk.css.map": "/origami-counter/static/css/main.77bad089.chunk.css.map",
     "static/js/2.75f20dd7.chunk.js.LICENSE.txt": "/origami-counter/static/js/2.75f20dd7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ddba2f54.js",
     "static/js/2.75f20dd7.chunk.js",
-    "static/css/main.f99492d0.chunk.css",
-    "static/js/main.6968e46d.chunk.js"
+    "static/css/main.77bad089.chunk.css",
+    "static/js/main.ff1b6f3a.chunk.js"
   ]
 }
